@@ -1,4 +1,4 @@
-# Aman Abdullah 👋
+# Amaan Abdullah 👋
 
 ## Founder of ServiceLabs3 🚀
 
