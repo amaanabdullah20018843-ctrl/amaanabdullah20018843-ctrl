@@ -1,15 +1,22 @@
 # Amaan Abdullah 👋
 
-## Founder of ServiceLabs3 🚀
+## Founder of ServiceLabs3 & GEXATRON 🚀
 
-I'm a 19-year-old developer and entrepreneur building
-an AI agency from India, registered in Estonia 🇪🇪
+I'm a 19-year-old developer, creative expert and entrepreneur building
+an Service based AI company and Warsaw from Poland, registered in Estonia 🇪🇪.
 
 ### What I'm Building
-- 🏢 **ServiceLabs3** — AI & Web Development Agency
-- 🤖 Custom AI solutions for businesses
-- 🌐 Full-stack web applications
+- 🏢 **ServiceLabs3** — AI automation, social architecture & web systems bases service company
+- 🛜 **Gexatron** - Expertise INTERNET & Future Tech
+- 🤖 Custom AI solutions and consultancy for businesses
+- 🌐 Full-stack web applications , Software AND Robotics
+- 🎨 Creative Expert
 - ⚙️ Business automation tools
+- 🅿️ POLYMATH & POLYGLOT
+- 🥊 MMA & GYM
+- 🏏 CRICKET
+- 🎾 SQUASH
+- 🎥 Content LOGS
 
 ### Tech Stack (Learning Journey)
 
