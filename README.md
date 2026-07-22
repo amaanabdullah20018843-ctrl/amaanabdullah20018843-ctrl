@@ -77,11 +77,12 @@ an AI agency from India, registered in Estonia 🇪🇪
 
 ### Connect With Me
 ### Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/amaan-abdullah-ba2786359)](https://www.linkedin.com/in/amaan-abdullah-ba2786359)
-[![Twitter/X](https://x.com/lunadream22307)](https://x.com/lunadream22307)
-[![Instagram](https://www.instagram.com/mnemonic.amaan)](https://www.instagram.com/mnemonic.amaan)
-[![Pinterest](https://pin.it/1FObaEY99)](https://pin.it/1FObaEY99)
-[![Tumblr](https://img.shields.io/badge/Tumblr-36465D?style=flat&logo=tumblr&logoColor=white)](https://amaanabdullah.tumblr.com/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-abdullah-ba2786359?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/lunadream22307)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mnemonic.amaan?igsh=ZGMzZGQxMXZ3YzZl)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white)](https://pin.it/1FObaEY99)
+[![Tumblr](https://img.shields.io/badge/Tumblr-36465D?style=flat&logo=tumblr&logoColor=white)](https://amaanabdullah.tumblr.com/?source=share)
 
 
 
