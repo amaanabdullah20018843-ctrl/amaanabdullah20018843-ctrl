@@ -39,7 +39,6 @@ an AI agency from India, registered in Estonia 🇪🇪
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white)
@@ -58,12 +57,16 @@ an AI agency from India, registered in Estonia 🇪🇪
 ![Qdrant](https://img.shields.io/badge/-Qdrant-DC2626?style=flat&logo=qdrant&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
+<!-- Messaging & Caching -->
+![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
 
 
 
 
 ### Currently Learning
-- 🐍 Python — Week 2 (Day 2 of coding journey!)
 - 📊 Data Structures & Algorithms
 - 🤖 AI & Machine Learning
 
