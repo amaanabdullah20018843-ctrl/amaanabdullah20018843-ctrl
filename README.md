@@ -76,8 +76,15 @@ an AI agency from India, registered in Estonia 🇪🇪
 - 🤖 AI & Machine Learning
 
 ### Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/amanabdullah)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/amanabdullah)
+### Connect With Me
+[![LinkedIn](https://www.linkedin.com/in/amaan-abdullah-ba2786359)](https://www.linkedin.com/in/amaan-abdullah-ba2786359)
+[![Twitter/X](https://x.com/lunadream22307)](https://x.com/lunadream22307)
+[![Instagram](https://www.instagram.com/mnemonic.amaan)](https://www.instagram.com/mnemonic.amaan)
+[![Pinterest](https://pin.it/1FObaEY99)](https://pin.it/1FObaEY99)
+[![Tumblr](https://img.shields.io/badge/Tumblr-36465D?style=flat&logo=tumblr&logoColor=white)](https://amaanabdullah.tumblr.com/)
+
+
+
 
 ### GitHub Stats
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanabdullah&show_icons=true&theme=dark)
+![Amaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanabdullah&show_icons=true&theme=dark)
