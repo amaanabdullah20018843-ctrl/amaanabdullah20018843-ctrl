@@ -88,4 +88,4 @@ an AI agency from India, registered in Estonia 🇪🇪
 
 
 ### GitHub Stats
-![Amaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanabdullah&show_icons=true&theme=dark)
+[![Amaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanabdullah&show_icons=true&theme=dark)]
