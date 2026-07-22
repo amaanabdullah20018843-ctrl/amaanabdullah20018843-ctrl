@@ -51,6 +51,12 @@ an AI agency from India, registered in Estonia 🇪🇪
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
+<!-- AI Engineering & Vector Databases -->
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3EC?style=flat&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat&logo=llamaindex&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![Qdrant](https://img.shields.io/badge/-Qdrant-DC2626?style=flat&logo=qdrant&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 
 
