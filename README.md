@@ -4,7 +4,9 @@
 
 I'm a 19-year-old developer, creative expert and entrepreneur building
 an Service based AI company and Warsaw from Poland, registered in Estonia 🇪🇪.
-
+I am gonna be a Multipotentiate.
+My single most goal is to achieve Financial independence before I turn 21.
+I w
 ### What I'm Building
 - 🏢 **ServiceLabs3** — AI automation, social architecture & web systems bases service company
 - 🛜 **Gexatron** - Expertise INTERNET & Future Tech
