@@ -10,6 +10,11 @@ I wanna be good and achieve excellence at code, design, sales, negotiation, Comm
 I wanna be master of all trades. 
 Someone beyond human capabilities.
 I want it fast and quick.
+I want freedom.
+I wanna be a Polymath.
+I wanna be meeeeeew.
+" The Amaan Abdullah"
+
 ### What I'm Building
 - 🏢 **ServiceLabs3** — AI automation, social architecture & web systems bases service company
 - 🛜 **Gexatron** - Expertise INTERNET & Future Tech
