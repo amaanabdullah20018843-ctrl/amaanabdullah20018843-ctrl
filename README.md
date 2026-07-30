@@ -15,13 +15,11 @@ I wanna be a Polymath.
 I wanna be meeeeeew.
 
 
-fvggnhfnh
-fdfff
+
 =====>>" The Amaan Abdullah"<=====
 
-dffff
 
-xcvvb
+
 
 ### What I'm Building
 - 🏢 **ServiceLabs3** — AI automation, social architecture & web systems bases service company
