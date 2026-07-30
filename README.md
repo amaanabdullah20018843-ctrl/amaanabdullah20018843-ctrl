@@ -13,14 +13,16 @@ I want it fast and quick.
 I want freedom.
 I wanna be a Polymath.
 I wanna be meeeeeew.
-sbdbsys sbsgysgyssdfdd deyhuxdgyex  sysysgyfssn shshshss dwcec
-l,l
-vasteguya huiyeehhhhh bhjbjgyhffjyjeryjy
-kbhg gyygufjgkugkugkugkugku
-aaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+
+
+
 =====>>" The Amaan Abdullah"<=====
-bdhtddtnt chachab
-gjgi'iri engn 42tugj jeh jte hnhiu54uy89[u8ut8u bjabdiurntnrahman oo i n yhe vhyw nsbbab'y ywhah njiwg kl
+
+
+
+
+
 ### What I'm Building
 - 🏢 **ServiceLabs3** — AI automation, social architecture & web systems bases service company
 - 🛜 **Gexatron** - Expertise INTERNET & Future Tech
